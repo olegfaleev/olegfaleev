@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olegfaleev
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me <a href="https://t.me/oleg_faleev">Telegram</a>
+- 📫 How to reach me <a href="https://t.me/oleg_faleev" target="_blank">Telegram</a>
 
 <!---
 olegfaleev/olegfaleev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
